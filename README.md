@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-# 👋 I'm Vipul Sharma
+# I'm Vipul Sharma
 
 Backend Engineer passionate about building reliable, scalable, and cost-efficient distributed systems.  
-I specialize in **Golang**, large-scale microservices, messaging systems, and cloud infrastructure.
+I specialize in **Golang**, large-scale microservices, distributed, messaging systems, and cloud infrastructure.
 
 📍 Bangalore, India  
 📫 Email: vipulsharmaglbajaj17029@gmail.com  
@@ -74,24 +74,7 @@ I enjoy solving system design challenges, writing clean Go code, and improving p
 - PostgreSQL, MySQL, DynamoDB, MongoDB, NoSQL
 
 ### **Frameworks**
-- Gofr, Gin, mux
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science**  
-GL Bajaj Institute of Technology & Management  
-CGPA: 8.36  
-
----
-
-## 🏅 Achievements
-
-- **1482 rating** on LeetCode (600+ problems solved)  
-- **1518 rating** on HackerEarth  
-- Cleared first two levels of **Capgemini Tech Challenge**  
-- 300+ problems on GeeksForGeeks and **1000+ total** across problem-solving platforms  
+- Gofr, Gin, mux and many more
 
 ---
 
@@ -114,4 +97,4 @@ CGPA: 8.36
 
 ---
 
-### ⭐ If you like any of my work, feel free to star the repositories or reach out for collaboration!
+### ⭐ If you like any of my work, feel free to star the repositories!
